@@ -1,5 +1,5 @@
 # UKVehiclePlates
-UKVehiclePlates is a UK-based resource for FiveM by Albo1125 that automatically sets non-conformant AI plates to a realistic LLNN LLL format (L=letter, N=number).
+UKVehiclePlates is a UK-based resource for FiveM by Albo1125 that automatically sets non-conformant AI plates to a realistic LLNN LLL format (L=letter, N=number). It is available at [https://github.com/Albo1125/UKVehiclePlates](https://github.com/Albo1125/UKVehiclePlates)
 
 ## Installation & Usage
 1. Download the latest release.
